@@ -1,1 +1,3 @@
-# Online-Bookstore-Bookaura---Platform-Group-No-22-
+Full stack project
+
+Grp - 22
